@@ -1,0 +1,42 @@
+_repo: Dante-s-HelIn-proza-overgebracht-en-met-een-inleiding-voorzien_30229
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Boeken, H. J.
+    aliases:
+    - Boeken, Hendricus Johannes
+    - Boeken, Hein
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '34454'
+    url: http://www.gutenberg.org/2009/agents/34454
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_issued: '2009-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30229'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hell'
+- !lcc 'PQ'
+- !lcsh 'Italian poetry -- To 1400 -- Translations into Dutch'
+- !lcsh 'Epic poetry, Italian -- Translations into Dutch'
+title: 'Dante''s Hel
+
+  In proza overgebracht en met een inleiding voorzien'
+url: http://www.gutenberg.org/ebooks/30229
